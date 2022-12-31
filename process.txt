@@ -1,0 +1,5 @@
+- drop all NA values from the dataset
+- do feature engineering on the dataset
+- check which features are important
+- take care of missing values in those important features
+- train the model again

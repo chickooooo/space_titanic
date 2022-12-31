@@ -36,3 +36,7 @@ column names:
     'transported'
 
 
+home_planet categories:
+   Earth     4602
+   Europa    2131
+   Mars      1759
